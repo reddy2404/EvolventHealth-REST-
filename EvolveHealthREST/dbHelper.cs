@@ -11,7 +11,10 @@ namespace EvolveHealthREST
     {
         
 
-        string ConnectionString = "Data Source=XXXX; database=xxx; uid=xxx; pwd=xxxxx; connection timeout = 30";
+       string ConnectionString = "Data Source=XXXX; database=xxx; uid=xxx; pwd=xxxxx; connection timeout = 30";
+       
+
+
 
        
         public DataTable GetResultList()
